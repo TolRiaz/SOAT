@@ -1,0 +1,36 @@
+brotlipy==0.7.0
+certifi @ file:///C:/Windows/TEMP/abs_e9b7158a-aa56-4a5b-87b6-c00d295b01fanefpc8_o/croots/recipe/certifi_1655968940823/work/certifi
+cffi @ file:///C:/ci_310/cffi_1643036627027/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama==0.4.5
+cryptography @ file:///C:/ci/cryptography_1652101729823/work
+cycler==0.11.0
+fonttools==4.34.4
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+kiwisolver==1.4.4
+kornia==0.6.6
+lpips==0.1.4
+matplotlib==3.5.2
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci_310/mkl_random_1643050563308/work
+mkl-service==2.4.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1652784037925/work
+opencv-python==4.6.0.66
+packaging==21.3
+Pillow==9.2.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing==3.0.9
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+python-dateutil==2.8.2
+requests @ file:///C:/ci/requests_1657735340829/work
+scipy==1.8.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+torch==1.11.0
+torchaudio==0.11.0
+torchvision==0.12.0
+tqdm==4.64.0
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+urllib3 @ file:///C:/ci/urllib3_1650621844306/work
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
+wincertstore==0.2
